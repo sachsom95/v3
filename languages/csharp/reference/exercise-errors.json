@@ -7,11 +7,6 @@
     },
     {
       "Severity": "error",
-      "Message": "nested-types: invalid format: - \u0060nested-types\u0060",
-      "Source": "design"
-    },
-    {
-      "Severity": "error",
       "Message": "regular-expressions: invalid format: - \u0060regular-expressions\u0060 as they are handled in C# and .NET.",
       "Source": "design"
     },
@@ -22,12 +17,17 @@
     },
     {
       "Severity": "error",
-      "Message": "Failed to find concept StringBuilder, from the chars design.md, in exercises.json file",
+      "Message": "nested-types: invalid format: - \u0060nested-types\u0060",
+      "Source": "design"
+    },
+    {
+      "Severity": "error",
+      "Message": "Failed to find concept optional-parameters, from the method-overloading design.md, in exercises.json file",
       "Source": "merge"
     },
     {
       "Severity": "error",
-      "Message": "Failed to find concept accessibility, from the namespaces design.md, in exercises.json file",
+      "Message": "Failed to find concept StringBuilder, from the chars design.md, in exercises.json file",
       "Source": "merge"
     },
     {
@@ -42,22 +42,27 @@
     },
     {
       "Severity": "error",
-      "Message": "Failed to find concept pattern-matching-constants, from the enums design.md, in exercises.json file",
-      "Source": "merge"
-    },
-    {
-      "Severity": "error",
-      "Message": "Failed to find concept while-loops, from the floating-point-numbers design.md, in exercises.json file",
-      "Source": "merge"
-    },
-    {
-      "Severity": "error",
       "Message": "Failed to find concept exception-filtering, from the user-defined-exceptions design.md, in exercises.json file",
       "Source": "merge"
     },
     {
       "Severity": "error",
-      "Message": "Failed to find concept datetime, from the datetimes design.md, in exercises.json file",
+      "Message": "Failed to find concept accessibility, from the namespaces design.md, in exercises.json file",
+      "Source": "merge"
+    },
+    {
+      "Severity": "error",
+      "Message": "Failed to find concept timezone, from the time design.md, in exercises.json file",
+      "Source": "merge"
+    },
+    {
+      "Severity": "error",
+      "Message": "Failed to find concept overflows, from the overflow design.md, in exercises.json file",
+      "Source": "merge"
+    },
+    {
+      "Severity": "error",
+      "Message": "Failed to find concept while-loops, from the floating-point-numbers design.md, in exercises.json file",
       "Source": "merge"
     },
     {
@@ -72,17 +77,12 @@
     },
     {
       "Severity": "error",
-      "Message": "Failed to find concept optional-parameters, from the method-overloading design.md, in exercises.json file",
+      "Message": "Failed to find concept datetime, from the datetimes design.md, in exercises.json file",
       "Source": "merge"
     },
     {
       "Severity": "error",
-      "Message": "Failed to find concept timezone, from the time design.md, in exercises.json file",
-      "Source": "merge"
-    },
-    {
-      "Severity": "error",
-      "Message": "Failed to find concept overflows, from the overflow design.md, in exercises.json file",
+      "Message": "Failed to find concept pattern-matching-constants, from the enums design.md, in exercises.json file",
       "Source": "merge"
     },
     {
